@@ -1,3 +1,3 @@
-p = 'Hola mundo dylan gay';
+p = 'Hola mundo';
 print(p);
 
