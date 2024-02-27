@@ -1,3 +1,8 @@
+### pip install tabula-py
+### pip install pandas
+### pip install openpyxl
+### pip install JPype1
+
 import tabula
 import pandas as pd
 
